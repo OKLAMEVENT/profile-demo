@@ -1,0 +1,54 @@
+.see {
+    /* width: 7oopx; */
+    /* height: 400px; */
+}
+.more {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+    bottom: 0px;
+    left: 200px;
+    padding: 20px 20px;
+    font-size: 30px;
+}
+.folio4 {
+    /* width: 700px; */
+    /* height: 400px; */
+    /* margin-top: 330px; */
+}
+.page3 {
+    margin-top: 250px;
+}
+.as {
+    width: 950px;
+    height: 70px;
+    background-color: rgba(54, 38, 26, 0);
+    position: absolute;
+    bottom: -3000px;
+    left: 50px;
+    font-size: 50px;
+    border-radius: 50px;
+}
+.x {
+    width: 250px;
+    height: 30px;
+    color: #25D366;
+    padding: 10px 10px;
+    size: 40px;
+}
+.xxx {
+    width: 250px;
+    height: 30px;
+    color: #1877f2;
+    padding: 10px 10px;
+}
+.insta1 {
+    width: 250px;
+    height: 30px;
+    color: #feda75;
+    padding: 10px 10px;
+}
+a {
+    text-decoration: none;
+}

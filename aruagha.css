@@ -1,0 +1,122 @@
+.decoi, .deco2, .deco3, .enter, .deco0 {
+    width: 500px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.deco1-3 img {
+    width: 500px;
+    height: 400px;
+    margin: 5px 5px;
+    display: flex;
+}
+/* .deco7, .deco9, .deco11 {
+    width: 500px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+} */
+/* .deco10-11 img {
+    width: 500px;
+    height: 400px;
+    margin: 5px 5px;
+    display: flex;
+} */
+/* .deco4-8 img {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    margin: 5px 5px;
+} */
+.deco4-8 {
+    display: flex;
+}
+.deco10-11 {
+    display: flex;
+}
+.deco1-3 {
+    display: flex;
+    padding: 50px 50px;
+}
+.what {
+    position: relative;
+    left: 500px;
+    color: rgb(195, 239, 224);
+}
+.deco3 {
+    position: absolute;
+    left: 300px;
+    top: 530px;
+}
+.deco0 {
+    position: absolute;
+    top: 530px;
+    left: 810px;
+}
+.motto {
+    position: absolute;
+    transform: rotate(90deg);
+    top: 700px;
+    left: -100px;
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.moto {
+    position: absolute;
+    transform: rotate(90deg);
+    top: 700px;
+    font-size: 22px;
+    left: 125px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ok1 {
+    position: absolute;
+    top: 850px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    left: 100px;
+}
+.ok2 {
+    position: absolute;
+    top: 520px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    left: 100px;
+}
+.motto, .moto, .ok1, .ok2 {
+    color: antiquewhite;
+}
+.ulo {
+    position: absolute;
+    top: 680px;
+    left: 150px;
+    text-decoration: none;
+    background-color: bisque;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bragg {
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    background-color: bisque;
+    top: 550px;
+    left: 1340px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 90px;
+}
+.a4 {
+    top: 350px;
+    text-decoration: none;
+    color: rgb(224, 44, 44);
+    position: absolute;
+    left: 160px;
+    background-color: white;
+    padding: 10px 10px;
+    text-transform: capitalize;
+}
+.serv {
+    background-color: black;
+}

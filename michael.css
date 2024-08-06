@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.ist_section {
+    display: flex;
+}
+.img {
+    width: 90px;
+    /* height: 0px; */
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
+nav {
+    position: relative;
+    left: 300px;
+    top: 40px;
+}
+.ist_section a {
+    margin-left: 20px;
+    color: gray;
+    text-decoration: none;
+}
+.ist_section a:hover {
+    color: red;
+}
+.div1a {
+    width: 650px;
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 180px;
+}
+.diva {
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    color: white;
+}
+.diva {
+    text-decoration: none;
+    border-bottom: none;
+}
+.ist_section {
+    display: flex;
+}
+.mypic {
+    width: 500px;
+    height: 600px;
+}
+/* .insta, .twitter2, .whatsapp {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: 800px;
+    margin-left: 20px;
+} */
+.lp {
+    position: relative;
+    bottom: 950px;
+    left: 1000px;
+    writing-mode: vertical-lr;
+    font-size: 10px;
+}
+.main {
+    /* width: 1024px;
+    height: 600px; */
+    background-color: aliceblue;
+    /* margin: 80px 80px; */
+}
+.mik {
+    color: red;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.h1i {
+    display: flex;
+}
+.aa {
+    border-style: solid;
+    border-width: 10px 20px 10px opx;
+    border-color: red;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+}
+.div_a {
+    width: 800px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    color: white;
+    background-color: rgba(38, 35, 35, 0.779);
+}
+.div_i {
+    width: 200px;
+    height: 10pc;
+    position: relative;
+    left: 450px;
+    top: 20px;
+    color: azure;
+}
+.foto {
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 400px;
+    bottom: 40px;
+}
+.aru {
+    color: red;
+    text-decoration: none;
+}
+.hd2 {
+    position: relative;
+    left: 400px;
+    color: brown;
+    background-color: beige;
+    width: 330px;
+}
+.div_b {
+    width: 800px;
+    height: 700px;
+    position: relative;
+    left: 200px;
+    color: white;
+    background-color: rgba(53, 50, 50, 0.795);
+    font-size: 22px;
+}
+body {
+    /* background-color: black; */
+}
+.last {
+    color: white;
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+    text-decoration: none;
+}
+.span2 {
+    color: red;
+}
+.home {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: 700px;
+}
+.icons {
+    position: absolute;
+    top: 500px;
+    left: 130px;
+    border-radius: 5px;
+    color: black;
+    width: 500px;
+    height: 500px;
+}
+.nd_section {
+    display: flex;
+}
+.x {
+    background-color: white;
+    color: #25D366;
+    border-radius: 50%;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.insta1 {
+    background-color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 50%;
+    color:  #feda75;
+}
+.xx {
+    background-color: white;
+    color: #1877f2;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+.xxx {
+    background-color: white;
+    color: #1da1f2;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+.third-sec a {
+    text-decoration: none;
+}
+.third-sec a :hover{
+    background-color: rgb(239, 236, 236);
+}
+select {
+    background-color: gainsboro;
+    color: black;
+    margin-left: 20px;
+    width: 80px;
+    padding: 5px 5px;
+}
+.abou {
+    background-color: black;
+}
